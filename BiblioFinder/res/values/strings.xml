@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">BiblioFinder</string>
+	<string name="gpsOff">GPS offline</string>
+	<string name="gpsOn">GPS online</string>
+    
+</resources>

@@ -1,0 +1,113 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "Biblioteca de la Diputación Provincial de A Coruña",
+            "latitude": "43370897",
+            "longitude": "-8398236",
+            "description": "Calle Riego de Agua, 37, 15001 A Coruña",
+            "telf" : "981 080342",
+            "email" : "biblioteca.archivo@dicoruna.es biblioteca.info@dicoruna.es"
+        },
+        {
+            "id": 2,
+            "name": "Biblioteca de la Real Academia Gallega de Bellas Artes",
+            "latitude": "43372469",
+            "longitude": "-8399585",
+            "description": "Plaza Pintor Sotomayor, s/n, 15001 A Coruña",
+            "telf" : "981 211602",
+            "email" : "info@academiagallegabellasartes.org"
+        },
+        {
+            "id": 3,
+            "name": "Biblioteca de la Reunión Recreativa e Instructiva de Artesanos",
+            "latitude": "43370928",
+            "longitude": "-8402206",
+            "description": "Calle San Andrés, 36, 15003 A Coruña",
+            "telf" : "981 226089",
+            "email" : ""
+        }, 
+        {
+            "id": 4,
+            "name": "Biblioteca del Museo de Bellas Artes de A Coruña",
+            "latitude": "43372909",
+            "longitude": "-8399757",
+            "description": "Calle Zalaeta, s/n, 15002 A Coruña",
+            "telf" : "881 881700",
+            "email" : "mu.belas.artes.coruna@xunta.es"
+		},
+		{
+            "id": 5,
+            "name": "Biblioteca Municipal Fórum Metropolitano",
+            "latitude": "43356109",
+            "longitude": "-8398965",
+            "description": "Calle Río Monelos, 1, 15006 A Coruña",
+            "telf" : "981 184298",
+			"email" : "bforum@coruna.es"
+		}, 
+		{
+            "id": 6,
+            "name": "Biblioteca Municipal",
+            "latitude": "43367965",
+            "longitude": "-8404779",
+            "description": "Calle Durán Loriga, 10, 15003 A Coruña",
+            "telf" : "981 184388",
+			"email" : "binfantil@coruna.es bestudiosl@coruna.es"
+		},
+		{
+            "id": 7,
+            "name": "Biblioteca Municipal Los Rosales",
+            "latitude": "43374391",
+            "longitude": "-8434199",
+            "description": "Plaza Elíptica, 1, 15011 A Coruña",
+            "telf" : "981 900719",
+			"email" : "brosales@coruna.es"
+		}, 
+		{
+            "id": 8,
+            "name": "Biblioteca Municipal de Castrillón",
+            "latitude": "43348311",
+            "longitude": "-8397375",
+            "description": "Plaza de Pablo Iglesias, s/n, 15009 A Coruña",
+            "telf" : "981 184390",
+			"email" : "bcastrillon@coruna.es"
+		},
+		{
+            "id": 9,
+            "name": "Biblioteca Municipal de Monte Alto",
+            "latitude": "43378127",
+            "longitude": "-8400444",
+            "description": "Calle Vereda del Polvorín, 2-3º, 15002 A Coruña",
+            "telf" : "981 184382",
+			"email" : "bmontealto@coruna.es"
+		},
+		{
+            "id": 10,
+            "name": "Biblioteca Municipal Sagrada Familia",
+            "latitude": "43358119",
+            "longitude": "-841703",
+            "description": "Calle Antonio Pereira, 1-3-bajo, 15007 A Coruña",
+            "telf" : "981 184392",
+			"email" : "bsagradaf@aytolacoruna.es/ c.ameijeiras@coruna.es"
+		},
+		{
+            "id": 11,
+            "name": "Biblioteca Pública Nodal Miguel González Garcés",
+            "latitude": "43328081",
+            "longitude": "-8388022",
+            "description": "Calle Miguel González Garcés, 1, 15008 A Coruña",
+            "telf" : "981 170218 - 981 170219 - 981 170230",
+			"email" : "bppmgonzalezgarces@xunta.es"
+		},
+		{
+            "id": 12,
+            "name": "Fundación Biblioteca de la Casa Consulado",
+            "latitude": "43372344",
+            "longitude": "-8399757",
+            "description": "Calle Panaderas, 58-bajo, 15001 A Coruña",
+            "telf" : "981 206274",
+			"email" : "bibliocasaconsulado@gmail.com"
+		}
+    ],
+    "count": 12
+}
